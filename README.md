@@ -4,11 +4,10 @@
 - 🌱 Estudando Python, SQL, Pandas
 - 👯 Projetos Reais
 
-
 <div>
 <a href="https://beacons.ai/Joyce-lim4">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Joyce-lim4&theme=gruvbox&show_icons=true&hide_border=true&count_private=true">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Joyce-lim4&theme=gruvbox&show_icons=true&hide_border=true&layout=compact"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Joyce-lim4&theme=radical&show_icons=true&hide_border=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Joyce-lim4&theme=radical&show_icons=true&hide_border=true&layout=compact"/>
 </a>
 </div>
 <div style="display: inline_block"><br>
